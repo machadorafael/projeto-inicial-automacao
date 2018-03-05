@@ -1,0 +1,7 @@
+1514566382994	Rename resource 'Treinamento.feature'
+1514566473369	Rename type 'TreinamentoPage'
+1514566487442	Rename type 'TreinamentoElementMap'
+1514566498596	Rename package 'br.com.cwi.automation_training.pages.treinamento'
+1514566760718	Rename package 'br.com.cwi.automation_training.steps.treinamento'
+1514566779719	Rename type 'TreinamentoSteps'
+1514567962862	Rename compilation unit 'TreinamentoTest.java'

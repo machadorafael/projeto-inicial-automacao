@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="rafael.machado &lt;rafael.machado@NB-002788.cwinet.local&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="rafael.machado &lt;rafael.machado@NB-002788.cwinet.local&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item value="819" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="458" key="DIALOG_HEIGHT"/>
+		<item value="282" key="DIALOG_X_ORIGIN"/>
+		<item value="67" key="DIALOG_Y_ORIGIN"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\rafael.machado\Desktop\workspace-automation-training\cwi-automation-training-master\.git">
+			<item value="false"/>
+			<item value="rafael.machado &lt;rafael.machado@NB-002788.cwinet.local&gt;"/>
+			<item value="Criado o Projeto."/>
+			<item value="rafael.machado &lt;rafael.machado@NB-002788.cwinet.local&gt;"/>
+			<item value="ac8d2108326e48c9c0d868a21bb38c259822c8bd"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
